@@ -14,7 +14,7 @@ E atualmente estou aprendendo e criando projetos com:
  
  ### Conecte-se comigo:
  
- <a href="www.linkedin.com/in/milsonfortunato-neto-20542396"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/milsonfortunato-neto-20542396"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 [![Milson's GitHub stats](https://github-readme-stats.vercel.app/api?username=1000sonGit)](https://github.com/anuraghazra/github-readme-stats)
 
