@@ -1,6 +1,7 @@
-### Hi there 👋
+### E ae Pessoal 👋
 
-Eu sou programador Back-end em:
+Meu nome é Milson e adoro programar, tenho experiência  back-end em:
+
   - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python-logo"/>
 <br>
 E atualmente estou aprendendo e criando projetos com:
@@ -12,7 +13,9 @@ E atualmente estou aprendendo e criando projetos com:
   <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-logo"/></li>
  </ul>
  
- ### Conecte-se comigo:
+ Tenho alguns projetos interessantes que estão disponíveis aqui no GitHub. Fiquem a vontade para consultar e tirar dúvidas.
+ 
+ ### Siga-me:
  
  <a href="https://www.linkedin.com/in/milson-fortunato-neto-20542396/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
